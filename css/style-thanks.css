@@ -61,8 +61,6 @@ body {
 
 .page_massage {
     background: rgb(34, 34, 34) url(../images/registration-d.png) no-repeat center center;
-    background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
